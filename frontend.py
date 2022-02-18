@@ -55,7 +55,7 @@ db=conn.cursor()
 
 #Account access in twillio
 ac='AC262a66585bd32da8ea0fe0a040695a51'
-tok='46d033ff98792ca953d849674de99987'
+tok=''
 #client=Client(ac,tok)n
 
 
@@ -176,7 +176,7 @@ def email_sender(to,name,text,flag):
      
     #Admin Credentials
     frm='akashnagra5@gmail.com'
-    pas='zpdmlyxvllkdfzff'
+    pas=''
     
     
     #filling up msg parts
